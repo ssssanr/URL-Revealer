@@ -1,2 +1,2 @@
 # URL-Revealer
-这是一个Web代理，它从下载程序收集并显示URL，然后自动删除请求。此工具需要.NET Framework 2.0
+该程序并不是我开发的，我只是作为备份上传到github。原始下载地址：http://www.kahusecurity.com/tools/URLRevealer_v0.2.7z
